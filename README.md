@@ -5,12 +5,14 @@
 ### Run Apollo GraphQL Server
 ```bash
 cd server
+npm i
 npm run dev
 ```
 
 ### Run Client
 ```bash
 cd client
+npm i
 npm start
 ```
 
